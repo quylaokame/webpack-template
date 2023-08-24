@@ -1,2 +1,2 @@
 # webpack-template
-Minimal Webpack Configuration
+<!-- Minimal Webpack Configuration -->
